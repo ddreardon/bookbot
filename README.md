@@ -1,3 +1,3 @@
 # bookbot
 Practice github project
-## contributing
+## Contributing
